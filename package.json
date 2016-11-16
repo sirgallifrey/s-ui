@@ -1,0 +1,26 @@
+{
+  "name": "s-ui",
+  "version": "0.0.1",
+  "description": "Simple User Interface for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirgallifrey/s-ui.git"
+  },
+  "keywords": [
+    "simple",
+    "ui",
+    "user",
+    "interface",
+    "react"
+  ],
+  "author": "Adilson Schmitt Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirgallifrey/s-ui/issues"
+  },
+  "homepage": "https://github.com/sirgallifrey/s-ui#readme"
+}
